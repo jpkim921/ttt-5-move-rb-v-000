@@ -1,3 +1,3 @@
-def input_to_index
+def input_to_index()
 
 end
