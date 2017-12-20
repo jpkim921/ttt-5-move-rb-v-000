@@ -15,4 +15,4 @@ index = input_to_index(input)
 
 move(board, index)
 
-def display
+def display_board 
